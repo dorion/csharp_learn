@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{11BC384B-8252-4793-9F6F-32924405FEA6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="vegjelNegyzet/Program.cs">
+    <Files>
+      <File FileName="vegjelNegyzet/Program.cs" Line="9" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.vegjelNegyzet PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/ltk1/Projects/interval3or5/interval3or5/bin/Debug/netcoreapp2.0/interval3or5.deps.json
+/Users/ltk1/Projects/interval3or5/interval3or5/bin/Debug/netcoreapp2.0/interval3or5.runtimeconfig.json
+/Users/ltk1/Projects/interval3or5/interval3or5/bin/Debug/netcoreapp2.0/interval3or5.runtimeconfig.dev.json
+/Users/ltk1/Projects/interval3or5/interval3or5/bin/Debug/netcoreapp2.0/interval3or5.dll
+/Users/ltk1/Projects/interval3or5/interval3or5/bin/Debug/netcoreapp2.0/interval3or5.pdb
+/Users/ltk1/Projects/interval3or5/interval3or5/obj/Debug/netcoreapp2.0/interval3or5.csprojResolveAssemblyReference.cache
+/Users/ltk1/Projects/interval3or5/interval3or5/obj/Debug/netcoreapp2.0/interval3or5.csproj.CoreCompileInputs.cache
+/Users/ltk1/Projects/interval3or5/interval3or5/obj/Debug/netcoreapp2.0/interval3or5.AssemblyInfoInputs.cache
+/Users/ltk1/Projects/interval3or5/interval3or5/obj/Debug/netcoreapp2.0/interval3or5.AssemblyInfo.cs
+/Users/ltk1/Projects/interval3or5/interval3or5/obj/Debug/netcoreapp2.0/interval3or5.dll
+/Users/ltk1/Projects/interval3or5/interval3or5/obj/Debug/netcoreapp2.0/interval3or5.pdb

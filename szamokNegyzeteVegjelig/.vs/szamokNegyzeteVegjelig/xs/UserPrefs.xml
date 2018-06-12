@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{76C55247-F904-4038-B6EE-E000EAE95751}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="szamokNegyzeteVegjelig/Program.cs">
+    <Files>
+      <File FileName="szamokNegyzeteVegjelig/Program.cs" Line="18" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.szamokNegyzeteVegjelig PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/ltk1/Projects/szamokNegyzeteVegjelig/szamokNegyzeteVegjelig/obj/Debug/netcoreapp2.0/szamokNegyzeteVegjelig.csprojResolveAssemblyReference.cache
+/Users/ltk1/Projects/szamokNegyzeteVegjelig/szamokNegyzeteVegjelig/obj/Debug/netcoreapp2.0/szamokNegyzeteVegjelig.csproj.CoreCompileInputs.cache
+/Users/ltk1/Projects/szamokNegyzeteVegjelig/szamokNegyzeteVegjelig/obj/Debug/netcoreapp2.0/szamokNegyzeteVegjelig.AssemblyInfoInputs.cache
+/Users/ltk1/Projects/szamokNegyzeteVegjelig/szamokNegyzeteVegjelig/obj/Debug/netcoreapp2.0/szamokNegyzeteVegjelig.AssemblyInfo.cs
+/Users/ltk1/Projects/szamokNegyzeteVegjelig/szamokNegyzeteVegjelig/bin/Debug/netcoreapp2.0/szamokNegyzeteVegjelig.deps.json
+/Users/ltk1/Projects/szamokNegyzeteVegjelig/szamokNegyzeteVegjelig/bin/Debug/netcoreapp2.0/szamokNegyzeteVegjelig.runtimeconfig.json
+/Users/ltk1/Projects/szamokNegyzeteVegjelig/szamokNegyzeteVegjelig/bin/Debug/netcoreapp2.0/szamokNegyzeteVegjelig.runtimeconfig.dev.json
+/Users/ltk1/Projects/szamokNegyzeteVegjelig/szamokNegyzeteVegjelig/bin/Debug/netcoreapp2.0/szamokNegyzeteVegjelig.dll
+/Users/ltk1/Projects/szamokNegyzeteVegjelig/szamokNegyzeteVegjelig/bin/Debug/netcoreapp2.0/szamokNegyzeteVegjelig.pdb
+/Users/ltk1/Projects/szamokNegyzeteVegjelig/szamokNegyzeteVegjelig/obj/Debug/netcoreapp2.0/szamokNegyzeteVegjelig.dll
+/Users/ltk1/Projects/szamokNegyzeteVegjelig/szamokNegyzeteVegjelig/obj/Debug/netcoreapp2.0/szamokNegyzeteVegjelig.pdb

@@ -1,0 +1,11 @@
+/Users/ltk1/Projects/nEgeszNegyzet/nEgeszNegyzet/obj/Debug/netcoreapp2.0/nEgeszNegyzet.csprojResolveAssemblyReference.cache
+/Users/ltk1/Projects/nEgeszNegyzet/nEgeszNegyzet/obj/Debug/netcoreapp2.0/nEgeszNegyzet.csproj.CoreCompileInputs.cache
+/Users/ltk1/Projects/nEgeszNegyzet/nEgeszNegyzet/obj/Debug/netcoreapp2.0/nEgeszNegyzet.AssemblyInfoInputs.cache
+/Users/ltk1/Projects/nEgeszNegyzet/nEgeszNegyzet/obj/Debug/netcoreapp2.0/nEgeszNegyzet.AssemblyInfo.cs
+/Users/ltk1/Projects/nEgeszNegyzet/nEgeszNegyzet/bin/Debug/netcoreapp2.0/nEgeszNegyzet.deps.json
+/Users/ltk1/Projects/nEgeszNegyzet/nEgeszNegyzet/bin/Debug/netcoreapp2.0/nEgeszNegyzet.runtimeconfig.json
+/Users/ltk1/Projects/nEgeszNegyzet/nEgeszNegyzet/bin/Debug/netcoreapp2.0/nEgeszNegyzet.runtimeconfig.dev.json
+/Users/ltk1/Projects/nEgeszNegyzet/nEgeszNegyzet/bin/Debug/netcoreapp2.0/nEgeszNegyzet.dll
+/Users/ltk1/Projects/nEgeszNegyzet/nEgeszNegyzet/bin/Debug/netcoreapp2.0/nEgeszNegyzet.pdb
+/Users/ltk1/Projects/nEgeszNegyzet/nEgeszNegyzet/obj/Debug/netcoreapp2.0/nEgeszNegyzet.dll
+/Users/ltk1/Projects/nEgeszNegyzet/nEgeszNegyzet/obj/Debug/netcoreapp2.0/nEgeszNegyzet.pdb

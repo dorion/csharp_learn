@@ -1,0 +1,11 @@
+/Users/ltk1/tanulas/code/szamokVisszafele/szamokVisszafele/bin/Debug/netcoreapp2.0/szamokVisszafele.deps.json
+/Users/ltk1/tanulas/code/szamokVisszafele/szamokVisszafele/bin/Debug/netcoreapp2.0/szamokVisszafele.runtimeconfig.json
+/Users/ltk1/tanulas/code/szamokVisszafele/szamokVisszafele/bin/Debug/netcoreapp2.0/szamokVisszafele.runtimeconfig.dev.json
+/Users/ltk1/tanulas/code/szamokVisszafele/szamokVisszafele/bin/Debug/netcoreapp2.0/szamokVisszafele.dll
+/Users/ltk1/tanulas/code/szamokVisszafele/szamokVisszafele/bin/Debug/netcoreapp2.0/szamokVisszafele.pdb
+/Users/ltk1/tanulas/code/szamokVisszafele/szamokVisszafele/obj/Debug/netcoreapp2.0/szamokVisszafele.csprojResolveAssemblyReference.cache
+/Users/ltk1/tanulas/code/szamokVisszafele/szamokVisszafele/obj/Debug/netcoreapp2.0/szamokVisszafele.csproj.CoreCompileInputs.cache
+/Users/ltk1/tanulas/code/szamokVisszafele/szamokVisszafele/obj/Debug/netcoreapp2.0/szamokVisszafele.AssemblyInfoInputs.cache
+/Users/ltk1/tanulas/code/szamokVisszafele/szamokVisszafele/obj/Debug/netcoreapp2.0/szamokVisszafele.AssemblyInfo.cs
+/Users/ltk1/tanulas/code/szamokVisszafele/szamokVisszafele/obj/Debug/netcoreapp2.0/szamokVisszafele.dll
+/Users/ltk1/tanulas/code/szamokVisszafele/szamokVisszafele/obj/Debug/netcoreapp2.0/szamokVisszafele.pdb

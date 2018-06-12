@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A719DFE9-5AA6-45F5-BA70-3403B3132ED2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="csakParosSzamok/Program.cs">
+    <Files>
+      <File FileName="csakParosSzamok/Program.cs" Line="10" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.csakParosSzamok PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

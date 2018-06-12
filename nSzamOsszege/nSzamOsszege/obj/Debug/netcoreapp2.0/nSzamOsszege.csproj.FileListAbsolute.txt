@@ -1,0 +1,11 @@
+/Users/ltk1/Projects/nSzamOsszege/nSzamOsszege/bin/Debug/netcoreapp2.0/nSzamOsszege.deps.json
+/Users/ltk1/Projects/nSzamOsszege/nSzamOsszege/bin/Debug/netcoreapp2.0/nSzamOsszege.runtimeconfig.json
+/Users/ltk1/Projects/nSzamOsszege/nSzamOsszege/bin/Debug/netcoreapp2.0/nSzamOsszege.runtimeconfig.dev.json
+/Users/ltk1/Projects/nSzamOsszege/nSzamOsszege/bin/Debug/netcoreapp2.0/nSzamOsszege.dll
+/Users/ltk1/Projects/nSzamOsszege/nSzamOsszege/bin/Debug/netcoreapp2.0/nSzamOsszege.pdb
+/Users/ltk1/Projects/nSzamOsszege/nSzamOsszege/obj/Debug/netcoreapp2.0/nSzamOsszege.csprojResolveAssemblyReference.cache
+/Users/ltk1/Projects/nSzamOsszege/nSzamOsszege/obj/Debug/netcoreapp2.0/nSzamOsszege.csproj.CoreCompileInputs.cache
+/Users/ltk1/Projects/nSzamOsszege/nSzamOsszege/obj/Debug/netcoreapp2.0/nSzamOsszege.AssemblyInfoInputs.cache
+/Users/ltk1/Projects/nSzamOsszege/nSzamOsszege/obj/Debug/netcoreapp2.0/nSzamOsszege.AssemblyInfo.cs
+/Users/ltk1/Projects/nSzamOsszege/nSzamOsszege/obj/Debug/netcoreapp2.0/nSzamOsszege.dll
+/Users/ltk1/Projects/nSzamOsszege/nSzamOsszege/obj/Debug/netcoreapp2.0/nSzamOsszege.pdb

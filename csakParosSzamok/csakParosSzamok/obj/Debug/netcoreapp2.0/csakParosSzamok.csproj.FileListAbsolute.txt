@@ -1,0 +1,11 @@
+/Users/ltk1/Projects/csakParosSzamok/csakParosSzamok/obj/Debug/netcoreapp2.0/csakParosSzamok.csprojResolveAssemblyReference.cache
+/Users/ltk1/Projects/csakParosSzamok/csakParosSzamok/obj/Debug/netcoreapp2.0/csakParosSzamok.csproj.CoreCompileInputs.cache
+/Users/ltk1/Projects/csakParosSzamok/csakParosSzamok/obj/Debug/netcoreapp2.0/csakParosSzamok.AssemblyInfoInputs.cache
+/Users/ltk1/Projects/csakParosSzamok/csakParosSzamok/obj/Debug/netcoreapp2.0/csakParosSzamok.AssemblyInfo.cs
+/Users/ltk1/Projects/csakParosSzamok/csakParosSzamok/bin/Debug/netcoreapp2.0/csakParosSzamok.deps.json
+/Users/ltk1/Projects/csakParosSzamok/csakParosSzamok/bin/Debug/netcoreapp2.0/csakParosSzamok.runtimeconfig.json
+/Users/ltk1/Projects/csakParosSzamok/csakParosSzamok/bin/Debug/netcoreapp2.0/csakParosSzamok.runtimeconfig.dev.json
+/Users/ltk1/Projects/csakParosSzamok/csakParosSzamok/bin/Debug/netcoreapp2.0/csakParosSzamok.dll
+/Users/ltk1/Projects/csakParosSzamok/csakParosSzamok/bin/Debug/netcoreapp2.0/csakParosSzamok.pdb
+/Users/ltk1/Projects/csakParosSzamok/csakParosSzamok/obj/Debug/netcoreapp2.0/csakParosSzamok.dll
+/Users/ltk1/Projects/csakParosSzamok/csakParosSzamok/obj/Debug/netcoreapp2.0/csakParosSzamok.pdb
