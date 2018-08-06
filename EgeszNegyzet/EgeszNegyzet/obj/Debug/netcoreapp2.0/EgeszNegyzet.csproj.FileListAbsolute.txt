@@ -1,0 +1,11 @@
+/Users/ltk1/tanulas/code/EgeszNegyzet/EgeszNegyzet/bin/Debug/netcoreapp2.0/EgeszNegyzet.deps.json
+/Users/ltk1/tanulas/code/EgeszNegyzet/EgeszNegyzet/bin/Debug/netcoreapp2.0/EgeszNegyzet.runtimeconfig.json
+/Users/ltk1/tanulas/code/EgeszNegyzet/EgeszNegyzet/bin/Debug/netcoreapp2.0/EgeszNegyzet.runtimeconfig.dev.json
+/Users/ltk1/tanulas/code/EgeszNegyzet/EgeszNegyzet/bin/Debug/netcoreapp2.0/EgeszNegyzet.dll
+/Users/ltk1/tanulas/code/EgeszNegyzet/EgeszNegyzet/bin/Debug/netcoreapp2.0/EgeszNegyzet.pdb
+/Users/ltk1/tanulas/code/EgeszNegyzet/EgeszNegyzet/obj/Debug/netcoreapp2.0/EgeszNegyzet.csprojResolveAssemblyReference.cache
+/Users/ltk1/tanulas/code/EgeszNegyzet/EgeszNegyzet/obj/Debug/netcoreapp2.0/EgeszNegyzet.csproj.CoreCompileInputs.cache
+/Users/ltk1/tanulas/code/EgeszNegyzet/EgeszNegyzet/obj/Debug/netcoreapp2.0/EgeszNegyzet.AssemblyInfoInputs.cache
+/Users/ltk1/tanulas/code/EgeszNegyzet/EgeszNegyzet/obj/Debug/netcoreapp2.0/EgeszNegyzet.AssemblyInfo.cs
+/Users/ltk1/tanulas/code/EgeszNegyzet/EgeszNegyzet/obj/Debug/netcoreapp2.0/EgeszNegyzet.dll
+/Users/ltk1/tanulas/code/EgeszNegyzet/EgeszNegyzet/obj/Debug/netcoreapp2.0/EgeszNegyzet.pdb

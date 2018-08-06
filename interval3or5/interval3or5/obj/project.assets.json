@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ltk1/Projects/interval3or5/interval3or5/interval3or5.csproj",
+      "projectUniqueName": "/Users/ltk1/tanulas/code/interval3or5/interval3or5/interval3or5.csproj",
       "projectName": "interval3or5",
-      "projectPath": "/Users/ltk1/Projects/interval3or5/interval3or5/interval3or5.csproj",
+      "projectPath": "/Users/ltk1/tanulas/code/interval3or5/interval3or5/interval3or5.csproj",
       "packagesPath": "/Users/ltk1/.nuget/packages/",
-      "outputPath": "/Users/ltk1/Projects/interval3or5/interval3or5/obj",
+      "outputPath": "/Users/ltk1/tanulas/code/interval3or5/interval3or5/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

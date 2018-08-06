@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ltk1/Projects/nSzamOsszege/nSzamOsszege/nSzamOsszege.csproj",
+      "projectUniqueName": "/Users/ltk1/tanulas/code/nSzamOsszege/nSzamOsszege/nSzamOsszege.csproj",
       "projectName": "nSzamOsszege",
-      "projectPath": "/Users/ltk1/Projects/nSzamOsszege/nSzamOsszege/nSzamOsszege.csproj",
+      "projectPath": "/Users/ltk1/tanulas/code/nSzamOsszege/nSzamOsszege/nSzamOsszege.csproj",
       "packagesPath": "/Users/ltk1/.nuget/packages/",
-      "outputPath": "/Users/ltk1/Projects/nSzamOsszege/nSzamOsszege/obj",
+      "outputPath": "/Users/ltk1/tanulas/code/nSzamOsszege/nSzamOsszege/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

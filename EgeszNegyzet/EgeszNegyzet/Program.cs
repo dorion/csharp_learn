@@ -6,7 +6,9 @@ namespace EgeszNegyzet
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Kérek egy számot:");
+            var number = Convert.ToByte(Console.ReadLine());
+            Console.WriteLine(number * number);
         }
     }
 }
