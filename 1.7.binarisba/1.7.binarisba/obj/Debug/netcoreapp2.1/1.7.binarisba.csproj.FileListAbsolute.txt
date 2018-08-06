@@ -1,0 +1,11 @@
+/Users/ltk1/Projects/1.7.binarisba/1.7.binarisba/bin/Debug/netcoreapp2.1/1.7.binarisba.deps.json
+/Users/ltk1/Projects/1.7.binarisba/1.7.binarisba/bin/Debug/netcoreapp2.1/1.7.binarisba.runtimeconfig.json
+/Users/ltk1/Projects/1.7.binarisba/1.7.binarisba/bin/Debug/netcoreapp2.1/1.7.binarisba.runtimeconfig.dev.json
+/Users/ltk1/Projects/1.7.binarisba/1.7.binarisba/bin/Debug/netcoreapp2.1/1.7.binarisba.dll
+/Users/ltk1/Projects/1.7.binarisba/1.7.binarisba/bin/Debug/netcoreapp2.1/1.7.binarisba.pdb
+/Users/ltk1/Projects/1.7.binarisba/1.7.binarisba/obj/Debug/netcoreapp2.1/1.7.binarisba.csprojResolveAssemblyReference.cache
+/Users/ltk1/Projects/1.7.binarisba/1.7.binarisba/obj/Debug/netcoreapp2.1/1.7.binarisba.csproj.CoreCompileInputs.cache
+/Users/ltk1/Projects/1.7.binarisba/1.7.binarisba/obj/Debug/netcoreapp2.1/1.7.binarisba.AssemblyInfoInputs.cache
+/Users/ltk1/Projects/1.7.binarisba/1.7.binarisba/obj/Debug/netcoreapp2.1/1.7.binarisba.AssemblyInfo.cs
+/Users/ltk1/Projects/1.7.binarisba/1.7.binarisba/obj/Debug/netcoreapp2.1/1.7.binarisba.dll
+/Users/ltk1/Projects/1.7.binarisba/1.7.binarisba/obj/Debug/netcoreapp2.1/1.7.binarisba.pdb
